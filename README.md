@@ -1,7 +1,7 @@
 <div>
  <div>
  
-  <a href="https://www.tryhackme.com/p/BayBeLang" target="_blank"><img alt='TryHackMe' src="https://imgur.com/WrRLVMy" target="_blank"></a>
+  <a href="https://www.tryhackme.com/p/BayBeLang" target="_blank"><img alt='TryHackMe' src="https://i.imgur.com/WrRLVMy.png" target="_blank"></a>
 </div>
  <div>
   <a href="https://github.com/marcosvspaz">
