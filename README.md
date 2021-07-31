@@ -1,8 +1,7 @@
 
  
  <div>
- [TryHackMe](https://imgur.com/WrRLVMy)
-
+ <a href="https://www.tryhackme.com/p/BayBeLang" target="_blank"><img src="https://imgur.com/WrRLVMy" target="_blank"></a>
 
   <a href="https://github.com/marcosvspaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvspaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
