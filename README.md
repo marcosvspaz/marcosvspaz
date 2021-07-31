@@ -1,4 +1,4 @@
- <script src="https://tryhackme.com/badge/286244"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/BayBeLang.png" alt="TryHackMe">
 
  
  <div>
